@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8BVJ/Kfq2tERsPNzg0B39OyIXz26vYnWAC0NHw5nr5k=",
+  "Source": "ApiDocker",
+  "BasePath": "_content/ApiDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
